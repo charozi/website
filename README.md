@@ -1,2 +1,1 @@
-Charozi's website.
-Coming soon
+My website.
